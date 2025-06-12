@@ -455,6 +455,7 @@
 - [@AlainDLC](https://github.com/AlainDLC)
 - [@Steveo1975](https://github.com/Steveo1975)
 - [@PeiQuan1011](https://github.com/PeiQuan1011)
+- [@istamov-m](https://github.com/istamov-m)
 - [@ssegevv](https://github.com/ssegevv)
 - [@TsiOnshime](https://github.com/TsiOnshime)
 - [@Nikhila1003](https://github.com/Nikhila1003)
@@ -673,4 +674,3 @@
 - [@Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola)
 - [@y0ooo0gesh](https://github.com/y0ooo0gesh)
 - [@vihangamalinda](https://github.com/vihangamalinda/)
-- [@istamov-m](https://github.com/istamov-m)
